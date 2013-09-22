@@ -5,7 +5,7 @@ require 'json'
 require 'uri'
 require 'net/http'
 
-search_string = "monitor"
+search_string = "\"router\""
 
 uri = URI.parse("http://www.ows.newegg.com")
 http = Net::HTTP.new(uri.host, uri.port)

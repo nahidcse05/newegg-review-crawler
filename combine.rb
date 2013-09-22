@@ -1,6 +1,6 @@
 require 'json'
 
-cats = ["hdd", "video-card", "monitor", "motherboard"]
+cats = `ls reviews/`.split
 
 all = {}
 for cat in cats
