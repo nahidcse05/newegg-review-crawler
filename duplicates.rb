@@ -27,7 +27,7 @@ def main(cat)
 end
 
 if ARGV.empty?
-  puts "usage: ruby duplicates.rb category" if ARGV.empty?
+  puts "usage: ruby duplicates.rb category"
 else
   main(ARGV[0])
 end
