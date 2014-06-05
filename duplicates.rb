@@ -7,7 +7,7 @@ def main(cat)
     tokens = file.split
     file = tokens[0]
     json = JSON.parse(File.open("reviews/#{cat}/#{file}.json", 'r').read)
-  
+
     seen = {}
     unique = []
 

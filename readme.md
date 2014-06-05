@@ -1,18 +1,17 @@
 # Categories crawled
 
- - hdd: 97 items, 19,210 reviews
- - monitor: 107 items, 9,820 reviews
- - motherboard: 249 items, 17,040 reviews
- - power-supply: 204 items, 30,940 reviews
- - router: 193 items, 24,670 reviews
- - video-card: 282 items, 12,590 reviews
+ - hdd: 97 items, 22416 reviews
+ - monitor: 107 items, 12890 reviews
+ - motherboard: 249 items, 23419 reviews
+ - power-supply: 204 items, 33399 reviews
+ - router: 191 items, 26978 reviews
+ - video-card: 282 items, 17819 reviews
 
-# Egg (rating) distribution
- 
- - 1: 15,609 (13.66%)
- - 2: 6,951 (6.08%)
- - 3: 7,272 (6.36%)
- - 4: 16,933 (14.82%)
- - 5: 67,505 (59.07%)
+# Egg (rating) distribution:
+ - 1: 19,514 (14.25%)
+ - 2: 8,547 (6.24%)
+ - 3: 8,912 (6.51%)
+ - 4: 20,401 (14.9%)
+ - 5: 79,547 (58.1%)
 
-1,132 total items, 114,270 total reviews
+1,130 total items, 136,921 total reviews

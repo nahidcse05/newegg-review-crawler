@@ -5,7 +5,7 @@ require 'open-uri'
 
 def get_review_page(item, page)
   base_url = "http://www.ows.newegg.com/Products.egg"
-  content = open("#{base_url}/#{item}/reviews/#{page}").read
+  content = open("#{base_url}/#{item}/Reviews/?page=#{page}").read
   JSON.parse(content)
 end
 
@@ -18,7 +18,7 @@ def main(cat)
     i = 0
 
     puts "Crawling reviews for item #{item}..."
-  
+
     while true
       json_content = get_review_page(item, i)
       p_info = json_content["PaginationInfo"]
@@ -40,7 +40,7 @@ def main(cat)
 end
 
 if ARGV.empty?
-  puts "usage: ruby duplicates.rb category"
+  puts "usage: ruby get-reviews.rb category"
 else
   main(ARGV[0])
 end
