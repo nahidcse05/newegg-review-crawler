@@ -11,6 +11,7 @@ uri = URI.parse("http://www.ows.newegg.com")
 http = Net::HTTP.new(uri.host, uri.port)
 request = Net::HTTP::Post.new("/Search.egg/Advanced")
 request.add_field('Content-Type', 'application/x-www-form-urlencoded')
+request.add_field('User-Agent', 'Newegg iPhone App / 4.1.2')
 
 data = {
     "PageNumber" => 1,
@@ -37,4 +38,5 @@ for page in 1..20
     reviews = /[0-9,]+/.match item["ReviewSummary"]["TotalReviews"]
     puts "#{item["NeweggItemNumber"]} #{reviews} (#{item["Title"]})"
   end
+  `sleep 1`
 end
