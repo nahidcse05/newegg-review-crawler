@@ -1,0 +1,9 @@
+/usr/lib/ruby/1.9.1/csv.rb:2058:in `=~': invalid byte sequence in UTF-8 (ArgumentError)
+        from /usr/lib/ruby/1.9.1/csv.rb:2058:in `init_separators'
+        from /usr/lib/ruby/1.9.1/csv.rb:1590:in `initialize'
+        from /usr/lib/ruby/1.9.1/csv.rb:1396:in `new'
+        from /usr/lib/ruby/1.9.1/csv.rb:1396:in `parse_line'
+        from amazon-searcher-tv.rb:33:in `block in <main>'
+        from amazon-searcher-tv.rb:28:in `each'
+        from amazon-searcher-tv.rb:28:in `<main>'
+
