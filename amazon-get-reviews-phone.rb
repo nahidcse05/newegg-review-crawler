@@ -9,6 +9,7 @@ def get_review_page(item, page)
   `sleep 0.5`
   uri = URI.parse("http://www.ows.newegg.com")
   http = Net::HTTP.new(uri.host, uri.port)
+  http.read_timeout = 5000
   request = Net::HTTP::Get.new("/Products.egg/#{item}/Reviews")
   request.add_field('Content-Type', 'application/x-www-form-urlencoded')
   request.add_field('User-Agent', 'Newegg iPhone App / 4.1.2')
