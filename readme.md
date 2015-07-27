@@ -1,3 +1,6 @@
+# Instruction for Running
+ - Run amazon-searcher-camera first 
+
 # Categories crawled
 
  - hdd: 97 items, 22416 reviews
