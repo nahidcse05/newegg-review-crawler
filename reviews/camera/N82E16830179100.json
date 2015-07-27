@@ -1,0 +1,47 @@
+[
+  {
+    "Title": "Great deal in a package.",
+    "Rating": 5,
+    "PublishDate": "10/26/2007 3:38:54 PM",
+    "LoginNickName": "Elmer Fudd",
+    "BoughtTimeTypeString": "1 day to 1 week",
+    "TechLevelTypeString": "average",
+    "IsNewReview": true,
+    "PurchaseMark": true,
+    "Cons": "Not too good for a long trip if there is no electrical outlet to charge battery.",
+    "Pros": "Got a great package deal on a combo.",
+    "Comments": "On my previous review, I erroneously stated that there is no adapter cable for AC plug included in the combo deal. The manual indicated that cable is NOT included in US & Canada. Battery charger supplied don't need an adapter cable, it plugs right in to an outlet. Therefore, the averall rating should be 100%, sorry.",
+    "TotalConsented": 0,
+    "TotalVoting": 0
+  },
+  {
+    "Title": "Great camera...",
+    "Rating": 4,
+    "PublishDate": "10/26/2007 9:53:01 AM",
+    "LoginNickName": "Elmer Fudd",
+    "BoughtTimeTypeString": "1 day to 1 week",
+    "TechLevelTypeString": "average",
+    "IsNewReview": true,
+    "PurchaseMark": true,
+    "Cons": "Camera came with a battery charger, but it didn't have an AC cord? According to manual, you'd need to order that separately, which Newegg forgot to mention on the specs or product description.",
+    "Pros": "Compact, large LCD screen and ease of use. Got the combo package which included everything I wanted. Great deal for the price.",
+    "Comments": "My first digital camera, I'm satisfied with photo quality, size and ease of operation. Now I have to find the AC cord so I can charge the battery and start using it.",
+    "TotalConsented": 0,
+    "TotalVoting": 0
+  },
+  {
+    "Title": "Sony W55",
+    "Rating": 5,
+    "PublishDate": "7/27/2007 7:38:09 PM",
+    "LoginNickName": "jersey jeff",
+    "BoughtTimeTypeString": "1 month to 1 year",
+    "TechLevelTypeString": "High",
+    "IsNewReview": true,
+    "PurchaseMark": false,
+    "Cons": "body is not all metal.  other than that no issues...",
+    "Pros": "this camera is light and so easy to use, just set to auto and push the shutter....pix are great!!! battery life is amazing...I have had Canon and Nikon cameras and this Sony camera pack is all you need for the $$$",
+    "Comments": "",
+    "TotalConsented": 0,
+    "TotalVoting": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Great Buy!",
+    "Rating": 5,
+    "PublishDate": "5/10/2006 11:53:02 AM",
+    "LoginNickName": "jc",
+    "BoughtTimeTypeString": "1 month to 1 year",
+    "TechLevelTypeString": "average",
+    "IsNewReview": true,
+    "PurchaseMark": false,
+    "Cons": "Not as small as some of the others out there, but that's ok!",
+    "Pros": "This is my first digital camera and it's so easy to use!  The pictures turn out great also! Highly reccomend this camera!",
+    "Comments": "",
+    "TotalConsented": 0,
+    "TotalVoting": 0
+  },
+  {
+    "Title": "EZ to use",
+    "Rating": 5,
+    "PublishDate": "2/3/2006 3:01:11 PM",
+    "LoginNickName": "",
+    "BoughtTimeTypeString": "1 week to 1 month",
+    "TechLevelTypeString": "Somewhat High",
+    "IsNewReview": true,
+    "PurchaseMark": false,
+    "Cons": "none",
+    "Pros": "Ease of use, great pictures.",
+    "Comments": "",
+    "TotalConsented": 0,
+    "TotalVoting": 0
+  }
+]
