@@ -5,7 +5,7 @@
   - tv
   
 # Instruction for Running
- - Make sure you have a list of items in a .csv file under each category in folder Amazonfile 
+ - Make sure you have a list of items in a .csv file under each category in folder Amazon
  - Make sure .csv file in UTF-8 format
  - For converting to UTF-8 format open the .csv file using notepad++(for windows)or notepadqq(for ubuntu), then from encoding tab select convert to UTF-8 then save the file in .csv format.
  - Run first amazon-searcher-camera.rb then amazon-getreviews-camera.rb 
@@ -20,8 +20,8 @@
 # Ruby command
  - ruby amazon-searcher-camera.rb camera 
  - ruby amazon-getreviews-camera.rb camera
+ 
 # Categories crawled
-
  - hdd: 97 items, 22416 reviews
  - monitor: 107 items, 12890 reviews
  - motherboard: 249 items, 23419 reviews
